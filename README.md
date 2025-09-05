@@ -1,7 +1,3 @@
-# 💫 About Me:
-🌍 I'm based in Bacolod City<br>✉️ You can contact me at enrozgaming@gmail.com<br>🧠 I'm currently learning Laravel-filament, React, PostgreSQL, AWS<br>💬 Ask me about I have a dog name Skit
-
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:enrozgaming@gmail.com) 
 
